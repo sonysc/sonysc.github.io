@@ -1,0 +1,9 @@
+- title: Email
+  url: https://outlook.live.com
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/GuasguaAlexis
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/AlexisGuasgua
+  icon: fab fa-github
