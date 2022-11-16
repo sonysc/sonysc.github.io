@@ -5,18 +5,22 @@ title:  Hobbies
 
 ---
 
-Las cosas buenas llegan a tiempo
+ESFUERZATE, SUPERA LAS DIFICULTADES Y CREA TU PROPIA HISTORIA DE ÉXITO..!!!
 
 En el transcurso de mi vida me he dedicado a diferente actividad en mi tiempo libre las cuales son:
 
-Salir de Pesca
+Aprender a cocinar
 
-Ir al GYM
+Hacer deporte
 
-Grafitear :  Arte urbano arte de pintar o dibujar trazos artísticos en un muro o pared.
+Ver películas y series
 
-Escuchar música de los 80
+Escuchar música de los 90
 
 Bailar
 
-Salir de viaje a distintas partes del país 
+Practicar fotografías
+
+Viajar
+
+Conducir motocicleta y automovil
