@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Destrezas
-author: Aigaje Alexis
+author: Sonia Sisa
 
 
 ---
