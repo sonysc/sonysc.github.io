@@ -7,18 +7,22 @@ author: Sonia Sisa
 ---
 En el trascurso de mi vida he adquirido diferentes destrezas
 
-El las áreas de trabajo que más me destaco son :
+Acciones que he aprendido a realizar y lo he incorporado en mi vida y lo voy perfeccionando día a día con la práctica y con el trabajo.
 
-Carpintería
+DESTREZAS:
 
-Construcción
+* Combinar ingredientes para preparar platos de comida exótica
 
-Electricidad
+* Coser ropa con gran pulso y precisión. 
 
-Cerrajería
+* Cultivar el campo.
 
-Pintura
+* Interpretar una canción de forma afinada
 
-Gracias a mis diferentes destrejas que adquirí con el transcurso
-de los años he logrado viajar por diferentes partes del
-país y conocer diferentes culturas .
+* Toma de decisiones
+
+* Solución de problemas y conflictos
+
+* Pensamiento crítico
+
+
