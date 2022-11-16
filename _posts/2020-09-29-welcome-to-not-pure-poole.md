@@ -23,4 +23,4 @@ En el transcurso de mi vida me he dedicado a diferente actividad en mi tiempo li
 
 * Viajar
 
-* Conducir motocicleta y automovil
+* Conducir motocicleta y automóvil
