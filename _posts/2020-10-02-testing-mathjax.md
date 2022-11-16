@@ -1,29 +1,31 @@
 ---
 layout: post
-title:  Estudios
+title:  Datos/Estudios
 
 
 
 ---
-Mi objetivo profesional se ajusta a las necesidades de crecimiento y mejoramiento
+Mi objetivo profesional se ajusta a las necesidades de crecimiento y mejoramiento en el ambito profesional y laboral.
 
 Datos Personales
 
-Apellidos : Aigaje Guasgua
+NOMBRE : Sonia Alexandra
 
-Nombres :   Jofre Alexis
+APELLIDO : Sisa Caizaguano
 
-Nacionalidad : Ecuatoriana
+I.D :0603842808
 
-Fecha de Nacimiento:  03/03/1999
+NACIONALIDAD : Ecuatoriana
 
-Teléfono : 0986414671
+FECHA DE NACIMIENTO :  25/03/1995
+
+CELULAR : 0985518697
 
 
 Estudios
 
-Instrucción Primaria : Unidad Educativa Santa Clara de Asís
+INSTRUCCIÓN PRIMARIA : Escuela Fiscal Mixta "Inés San Andrés Valencia"
 
-Instrucción Secundaria: Unidad Educativa  Tabacundo
+INSTRUCCIÓN SECUNDARIA : Unidad Educativa a Distancia "Mons. Señor Leonidas Proaño" extención Tambillo Bajo
 
-Instrucción Superior : Universidad Nacional de Chimborazo
+INSTRUCCIÓN SUPERIOR : Universidad Nacional de Chimborazo
