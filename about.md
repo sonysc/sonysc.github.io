@@ -1,5 +1,6 @@
----
+
 layout: page
+---
 title: Acerca de Mi
 ---
 Mi nombre es Sonia Alexandra Sisa Caizaguano, nací un 25 de marzo en la comunidad Tambillo Alto
