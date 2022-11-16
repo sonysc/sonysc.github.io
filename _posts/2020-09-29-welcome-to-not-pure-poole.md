@@ -9,18 +9,18 @@ ESFUERZATE, SUPERA LAS DIFICULTADES Y CREA TU PROPIA HISTORIA DE ÉXITO..!!!
 
 En el transcurso de mi vida me he dedicado a diferente actividad en mi tiempo libre las cuales son:
 
-Aprender a cocinar
+* Aprender a cocinar
 
-Hacer deporte
+* Hacer deporte
 
-Ver películas y series
+* Ver películas y series
 
-Escuchar música de los 90
+* Escuchar música de los 90
 
-Bailar
+* Bailar
 
-Practicar fotografías
+* Practicar fotografías
 
-Viajar
+* Viajar
 
-Conducir motocicleta y automovil
+* Conducir motocicleta y automovil
