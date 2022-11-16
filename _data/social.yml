@@ -1,8 +1,8 @@
 - title: Email
-  url: https://outlook.live.com
+  url: https://www.google.com/intl/es/gmail/about/
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/GuasguaAlexis
+- title: Facebook
+  url: https://www.facebook.com/
   icon: fab fa-twitter
 - title: GitHub
   url: https://github.com/AlexisGuasgua
